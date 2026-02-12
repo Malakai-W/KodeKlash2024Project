@@ -4,7 +4,7 @@ Teammates: Isaac Saylor and Steve Crum.
 Some images were from https://www.freeimages.com/ & https://pixabay.com.  
 Sounds and music from https://pixabay.com  
 
-# What's the program actually about or do?
+# What is this program?
 It's essentially a simple escape room game with some horror aspects.
  
  
